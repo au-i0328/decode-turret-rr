@@ -1,2 +1,1 @@
-## WELCOME
-This repository houses the control software for *Dunestrider,* our 2025-2026 Robot. 
+This repo is from FTC 23532 DECODE Robot. This is used for testing turret PID only.
